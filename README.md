@@ -1,2 +1,2 @@
-# havid-jie.github.io
-www.havid.cn website.
+# www.havid.cn
+Welcome to havid's website.
